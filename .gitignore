@@ -6,3 +6,7 @@
 *.json
 *.pyc
 *.txt
+bin/*
+include/*
+lib/*
+local/*
